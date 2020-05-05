@@ -1,0 +1,48 @@
+
+Q1 : app : ce répertoire gère le controlleur et vues
+
+Q2 : conf : ce répertoire contien trois fichiers : application.conf/logback.xml/routes
+
+Q3 : lib : ce répertoire contien les codes du programme
+
+Q4 : public : ce répertoire enregistre les images/scripts/styles etc...
+
+Q5 : test : les testes du controlleur
+
+Q6 : Les fichiers.class sont stocké dans le répertoire : project/target/config-classes
+
+Q7 : Les trois caractàre : Binaire               Hexa
+
+			  1100000x		C0 C1
+
+			  1111111x		FE FF
+
+		    11110101 1111011x		F5 F6 F7
+
+Q8 : ça indique le path URL
+
+Q9 : La page statique c'est une page point-à-point, c'est-à-dire utilisateur demande au serveur et le serveur renvois les données.
+
+Q10 : La méthode render() fait une fonction d'appliquer les éléments à la page web
+
+
+
+Auto-´evaluation
+
+Travail r´ealis´e 				Not´e sur Ma note 		Note du professeur
+
+R´eponses ´ecrites 5					4
+
+Correspondance controller/vue 3				3
+
+Partie html (pratique) 3				2
+
+Partie css (pratique) 3					0
+
+Hyperliens propos´e(pratique) 3				3
+
+Code bien ´ecrit (pratique) 3				2
+
+Travail sur le Git (points bonus) 2			1
+
+Auto-´evaluation correcte (point bonus) 1		1
